@@ -1,4 +1,6 @@
 # Medical-Appointments-EDA
+![](med.appts.png)
+
 public kaggle dataset: https://www.kaggle.com/datasets/joniarroba/noshowappointments
 
 Here, I will analyze, explore and gain insights into 100K medical appointmetns in Brazil. 
